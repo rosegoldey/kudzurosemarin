@@ -1,0 +1,19 @@
+{
+  "collection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/ashmolean",
+  "devCollection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/ashmolean",
+  "featured": [
+    "https://iiif.bodleian.ox.ac.uk/iiif/manifest/d9094414-8fc0-4149-93c0-9b0709df7d90.json"
+  ],
+  "metadata": ["Creator", "Subject"],
+  "label": { "none": ["Kudzu Rose Marin! Hi!"] },
+  "summary": {
+    "none": ["There are many things in this collection. It's so interesting! I am in a prison of my own creation!"]
+  },
+  "theme": {
+    "defaultTheme": "dark",
+    "accentColor": "plum",
+    "grayColor": "sand",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
