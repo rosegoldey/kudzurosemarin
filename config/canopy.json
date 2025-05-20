@@ -1,8 +1,8 @@
 {
-  "collection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/ashmolean",
-  "devCollection": "https://iiif.bodleian.ox.ac.uk/iiif/collection/ashmolean",
+  "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
+  "devCollection": "https://api.dc.library.northwestern.edu/api/v2/collections/dc70f756-8e30-4724-b50d-591843db2537?as=iiif",
   "featured": [
-    "https://iiif.bodleian.ox.ac.uk/iiif/manifest/d9094414-8fc0-4149-93c0-9b0709df7d90.json"
+    "https://dc.library.northwestern.edu/items/0c620524-65e0-422c-90ba-f7f431ec2a87"
   ],
   "metadata": ["Creator", "Subject"],
   "label": { "none": ["Kudzu Rose Marin! Hi!"] },
