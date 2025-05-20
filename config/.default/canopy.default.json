@@ -67,7 +67,7 @@
     }
   },
   "theme": {
-    "defaultTheme": "light",
+    "defaultTheme": "dark",
     "toggleEnabled": false
   },
   "components": {
